@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <img align="right" height="25" src="https://komarev.com/ghpvc/?username=Gauravkumaryadav4321&style=for-the-badge" />
@@ -12,7 +11,7 @@
 </p>
 
 #### 🛠️ Skills
-- **Languages & Tools:** C, JavaScript, , MySQL, Cybersecurity, Adobe Photoshop, , , Canva  
+- **Languages & Tools:** C++, JavaScript, PHP, MySQL, Cybersecurity, Adobe Photoshop, CorelDRAW, Tally ERP, Canva  
 - **Web Dev Stack:** HTML, CSS, Tailwind CSS, React.js, Bootstrap, Full-Stack Development  
 - **Interests:** Open Source, Cybersecurity, and Problem Solving  
 
@@ -23,7 +22,7 @@
 ### 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://x.com/_anuj01" target="blank">
+  <a href="https://x.com/Gauravkuma52887" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/gaurav-kumar-yadav-30406a236/" target="blank">
@@ -39,7 +38,7 @@
 ### 🛠️ Languages and Tools:
 
 <div>
-  <img src="https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -68,6 +67,11 @@
 ### 📊 My LeetCode Stats
 
 <img align="left" width="47%" src="https://leetcard.jacoblin.cool/Gauravkumaryadav?theme=dark" />
+
+<br><br><br><br><br><br><br><br>
+
+---
+
 
 
 
