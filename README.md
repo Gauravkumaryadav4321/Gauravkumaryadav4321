@@ -11,7 +11,7 @@
 </p>
 
 #### 🛠️ Skills
-- **Languages & Tools:** C++, JavaScript, PHP, MySQL, Cybersecurity, Adobe Photoshop, CorelDRAW, Tally ERP, Canva  
+- **Languages & Tools:** C++, JavaScript, , MySQL, Cybersecurity, Adobe Photoshop, CorelDRAW, Tally ERP, Canva  
 - **Web Dev Stack:** HTML, CSS, Tailwind CSS, React.js, Bootstrap, Full-Stack Development  
 - **Interests:** Open Source, Cybersecurity, and Problem Solving  
 
